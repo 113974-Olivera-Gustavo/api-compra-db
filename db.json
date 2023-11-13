@@ -1,0 +1,45 @@
+[
+  {
+    "nroDoc": 56789012,
+    "productosEnOferta": [
+      {
+        "codigo": "P-CLA-001",
+        "cantidad": 2
+      },
+      {
+        "codigo": "P-TUB-002",
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "nroDoc": 45678901,
+    "productosEnOferta": [
+      {
+        "codigo": "P-LLA-003",
+        "cantidad": 1
+      },
+      {
+        "codigo": "P-MOT-004",
+        "cantidad": 3
+      }
+    ]
+  },
+  {
+    "nroDoc": 34567890,
+    "productosEnOferta": [
+      {
+        "codigo": "P-CLA-001",
+        "cantidad": 1
+      },
+      {
+        "codigo": "P-LLA-003",
+        "cantidad": 2
+      },
+      {
+        "codigo": "P-MOT-004",
+        "cantidad": 1
+      }
+    ]
+  }
+]
